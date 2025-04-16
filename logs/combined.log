@@ -1,0 +1,7 @@
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /multiply?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication operation: 10 * 5 = 50","service":"calculator-microservice"}
